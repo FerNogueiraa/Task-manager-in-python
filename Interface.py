@@ -12,6 +12,7 @@ class Funcs():
         self.tarefa_entry.delete(0, END)
         self.datainicio_entry.delete(0, END)
         self.datafim_entry.delete(0, END)
+    
 
 
 #criação de Classe com funções:
